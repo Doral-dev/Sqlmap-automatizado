@@ -8,7 +8,7 @@ Os dejo un archivo .txt con el codigo de sqlmap automatizado en este repositorio
 
 2.Le dais permisos con chmod
 
-  --> chmod 754 script.sh
+  --> sudo chmod 754 script.sh
   
 
 
