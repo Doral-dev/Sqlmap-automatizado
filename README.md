@@ -1,4 +1,4 @@
-Os dejo un archivo .txt con el codigo de sqlmap automatizado en este repositorio.
+Os dejo un archivo .txt con el codigo de sqlmap automatizado en este repositorio. Estos son los pasos para ejecutarlo:
 
 
 
