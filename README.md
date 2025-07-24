@@ -14,4 +14,4 @@ Os dejo un archivo .txt con el codigo de sqlmap automatizado en este repositorio
 
 3.Y lo ejecutais
 
-  --> ./script.sh
+  --> sudo ./script.sh
